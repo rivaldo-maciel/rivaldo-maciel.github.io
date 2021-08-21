@@ -1,0 +1,48 @@
+body {
+    font-family: Montserrat;
+    background-color: white;
+  }
+  h1{
+    background-color: #023047;
+    padding: 15px 30px;
+    color: white;
+    margin: 0;
+  }
+  .color-p{
+    background-color: #023047;
+    padding: 15px 30px;
+    color: white;
+
+  }
+
+  .size-titles{
+    font-size: 30px;
+    
+  }
+
+img{
+  height: 200px;
+  border-radius: 50%;
+}
+
+
+
+#minhafoto{
+  float: left;
+  padding: 30px;
+  background-color: gray;
+  margin-top: 15px;
+}
+
+.description{
+  height: 200px;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  margin-top: 80px;
+}
+
